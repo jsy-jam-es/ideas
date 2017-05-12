@@ -1,4 +1,4 @@
-Scene: "The Situation"
+## Scene: "The Situation"
 Times are hard and you need money.
 If you don't get a job by the end of the day, your wife will leave you,
 your bank loan will expire and you will lose custody of your children.
@@ -15,5 +15,5 @@ b - go to "On The Phone With Daddy"
 c - go to "Die From Drug Overdose At Friends House"
 d - go to "Current Jobs Available"
 ------------------------------------------------
-------------------------------------------------
-Scene: "On The Train"
+
+## Scene: "On The Train"
